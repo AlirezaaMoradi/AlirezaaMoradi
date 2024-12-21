@@ -29,6 +29,7 @@
 <img src="./src/pictures/tailwindcss.svg" alt="Tailwindcss" width="35" title="Tailwindcss" />
 <img src="./src/pictures/git.svg" alt="Git" width="35" title="Git" />
 <img src="./src/pictures/github.svg" alt="GitHub" width="35" title="GitHub" />
+<img src="./src/pictures/javaScript.svg" alt="JavaScript" width="35" title="JavaScript" />
 </div>
 
 <h3>🏆 My Gtihub Stats</h3>
