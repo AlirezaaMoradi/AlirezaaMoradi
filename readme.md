@@ -31,6 +31,7 @@
 <img src="./src/pictures/github.svg" alt="GitHub" width="35" title="GitHub" />
 <img src="./src/pictures/javaScript.svg" alt="JavaScript" width="35" title="JavaScript" />
 <img src="./src/pictures/typeScript.svg" alt="TypeScript" width="35" title="TypeScript" />
+<img src="./src/pictures/reactJs.svg" alt="ReactJs" width="35" title="ReactJs"/>
 </div>
 
 <h3>🏆 My Gtihub Stats</h3>
