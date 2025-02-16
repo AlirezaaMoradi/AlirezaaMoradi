@@ -33,6 +33,7 @@
 <img src="./src/pictures/typeScript.svg" alt="TypeScript" width="35" title="TypeScript" />
 <img src="./src/pictures/reactJs.svg" alt="ReactJs" width="35" title="ReactJs"/>
 <img src="./src/pictures/redux.svg" alt="Redux" width="35" title="Redux"/>
+<img src="./src/pictures/mui.svg" alt="Mui" width="35" title="Mui"/>
 </div>
 
 <h3>🏆 My Gtihub Stats</h3>
