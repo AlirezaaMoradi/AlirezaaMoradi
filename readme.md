@@ -22,7 +22,7 @@
 </p>
 
 <h3>💎 My Experiences</h3>
-<div align="center">
+<div id="frontend" align="center">
 <img src="./src/pictures/html5.svg" alt="Html 5" width="35" title="Html 5" />
 <img src="./src/pictures/css3.svg" alt="Css 3" width="35" title="Css 3" />
 <img src="./src/pictures/sass.svg" alt="Sass" width="35" title="Sass" />
@@ -34,6 +34,12 @@
 <img src="./src/pictures/reactJs.svg" alt="ReactJs" width="35" title="ReactJs"/>
 <img src="./src/pictures/redux.svg" alt="Redux" width="35" title="Redux"/>
 <img src="./src/pictures/mui.svg" alt="Mui" width="35" title="Mui"/>
+</div>
+
+<div id="backend" align="center">
+<img src="./src/pictures/nodeJs.svg" alt="NodeJs" width="35" title="NodeJs" />
+<img src="./src/pictures/expressJs.svg" alt="ExpressJs" width="60" title="ExpressJs" />
+<img src="./src/pictures/mysql.svg" alt="MySQL" width="35" title="MySQL" />
 </div>
 
 <h3>🏆 My Gtihub Stats</h3>
