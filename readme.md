@@ -98,24 +98,6 @@
     title="Redux"
   />&nbsp;&nbsp;
   <img
-    src="./pictures/axios.svg"
-    alt="Axios"
-    width="30"
-    title="Axios"
-  />&nbsp;&nbsp;
-  <img
-    src="./pictures/react-hook-form.svg"
-    alt="React-Hook-Form"
-    width="30"
-    title="React-Hook-Form"
-  />&nbsp;&nbsp;
-  <img
-    src="./pictures/react-query.svg"
-    alt="React-Query"
-    width="30"
-    title="React-Query"
-  />&nbsp;&nbsp;
-  <img
     src="./pictures/react-router-dom.svg"
     alt="React-Router-Dom"
     width="30"
@@ -126,63 +108,6 @@
     alt="Material-Ui"
     width="30"
     title="Material-Ui"
-  />&nbsp;&nbsp;
-  <img
-    src="./pictures/pwa.svg"
-    alt="PWA"
-    width="40"
-    title="PWA"
-  />&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img 
-    src="./pictures/nodeJs.svg"
-    alt="NodeJs"
-    width="30"
-    title="NodeJs"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/nestJs.svg"
-    alt="NestJs"
-    width="30"
-    title="NestJs"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/postgres.svg"
-    alt="Postgres"
-    width="30"
-    title="Postgres"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/mysql.svg"
-    alt="Mysql"
-    width="30"
-    title="Mysql"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/type-orm.svg"
-    alt="TypeORM"
-    width="30"
-    title="TypeORM"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/graphql.svg"
-    alt="QraphQL"
-    width="30"
-    title="QraphQL"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/socket-io.svg"
-    alt="Socket.io"
-    width="30"
-    title="Socket.io"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/jwt.svg"
-    alt="JWT"
-    width="30"
-    title="JWT"
   />&nbsp;&nbsp;
 </p>
 
@@ -205,23 +130,11 @@
     width="30"
     title="Postman"
   />&nbsp;&nbsp;
-  <img 
-    src="./pictures/docker.svg"
-    alt="Docker"
+  <img
+    src="./pictures/npm.svg"
+    alt="NPM"
     width="30"
-    title="Docker"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/vitest.svg"
-    alt="Vitest"
-    width="30"
-    title="Vitest"
-  />&nbsp;&nbsp;
-  <img 
-    src="./pictures/swagger.svg"
-    alt="Swagger"
-    width="30"
-    title="Swagger"
+    title="NPM"
   />&nbsp;&nbsp;
 </p>
 
