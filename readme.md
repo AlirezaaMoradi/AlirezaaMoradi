@@ -113,6 +113,27 @@
 
 <p align="center">
   <img
+    src="./pictures/nodeJs.svg"
+    alt="NodeJs"
+    width="30"
+    title="NodeJs"
+  />&nbsp;&nbsp;
+  <img 
+    src="./pictures/expressJs.svg"
+    alt="ExpressJs"
+    width="30"
+    title="ExpressJs"
+  />&nbsp;&nbsp;
+  <img 
+    src="./pictures/postgres.svg"
+    alt="Postgres"
+    width="30"
+    title="Postgres"
+  />
+</p>
+
+<p align="center">
+  <img
     src="./pictures/git.svg"
     alt="Git"
     width="30"
@@ -135,6 +156,18 @@
     alt="NPM"
     width="30"
     title="NPM"
+  />&nbsp;&nbsp;
+  <img 
+    src="./pictures/docker.svg"
+    alt="Docker"
+    width="30"
+    title="Docker"
+  />&nbsp;&nbsp;
+  <img 
+    src="./pictures/axios.svg"
+    alt="Axios"
+    width="30"
+    title="Axios"
   />&nbsp;&nbsp;
 </p>
 
