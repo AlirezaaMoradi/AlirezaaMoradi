@@ -125,6 +125,12 @@
     title="ExpressJs"
   />&nbsp;&nbsp;
   <img 
+    src="./pictures/jwt.svg"
+    alt="JWT"
+    width="30"
+    title="JWT"
+  />&nbsp;&nbsp;
+  <img 
     src="./pictures/postgres.svg"
     alt="Postgres"
     width="30"
