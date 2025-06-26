@@ -131,6 +131,12 @@
     title="JWT"
   />&nbsp;&nbsp;
   <img 
+    src="./pictures/socket-io.svg"
+    alt="SocketIo"
+    width="30"
+    title="SocketIo"
+  />&nbsp;&nbsp;
+  <img 
     src="./pictures/postgres.svg"
     alt="Postgres"
     width="30"
