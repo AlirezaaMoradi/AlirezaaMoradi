@@ -142,6 +142,12 @@
     width="30"
     title="GitHub"
   />&nbsp;&nbsp;
+  <img
+    src="./src/icons/frontend/axios.svg"
+    alt="Axios"
+    width="30"
+    title="Axios"
+  />&nbsp;&nbsp;
 </p>
 
 <br />
