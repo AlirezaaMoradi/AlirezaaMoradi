@@ -148,6 +148,12 @@
     width="30"
     title="Axios"
   />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/frontend/vitest.svg"
+    alit="Vitest"
+    width="30"
+    title="Vitest"
+  />&nbsp;&nbsp;
 </p>
 
 <br />
