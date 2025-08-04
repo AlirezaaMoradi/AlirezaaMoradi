@@ -99,7 +99,7 @@
   />&nbsp;&nbsp;
   <img
     src="./src/icons/frontend/nextJs.svg"
-    alt="React-Router-Dom"
+    alt="NextJs"
     width="30"
     title="NextJs"
   />&nbsp;&nbsp;
@@ -120,6 +120,51 @@
     alt="React-Hook-Form"
     width="32"
     title="React Hook Form"
+  />&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <img 
+    src="./src/icons/backend/nodeJs.svg"
+    alt="NodeJs"
+    width="30"
+    title="NodeJs"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/backend/nestJs.svg"
+    alt="NestJs"
+    width="30"
+    title="NestJs"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/backend/postgreSql.svg"
+    alt="PostgreSQL"
+    width="30"
+    title="PostgreSQL"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/backend/typeOrm.svg"
+    alt="TypeOrm"
+    width="30"
+    title="TypeOrm"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/backend/jwt.svg"
+    alt="JWT"
+    width="30"
+    title="JWT"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/backend/swagger.svg"
+    alt="Swagger"
+    width="30"
+    title="Swagger"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/backend/ejs.svg"
+    alt="EJS"
+    width="30"
+    title="EJS"
   />&nbsp;&nbsp;
 </p>
 
@@ -153,6 +198,18 @@
     alit="Vitest"
     width="30"
     title="Vitest"
+  />&nbsp;&nbsp;
+  <img
+    src="./src/icons/tools/mailtrap.svg"
+    alt="Mailtrap"
+    width="30"
+    title="Mailtrap"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/tools/postman.svg"
+    alt="Postman"
+    width="30"
+    title="Postman"
   />&nbsp;&nbsp;
 </p>
 
