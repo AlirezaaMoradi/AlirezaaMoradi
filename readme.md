@@ -187,6 +187,12 @@
     width="30"
     title="GitHub"
   />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/tools/docker.svg"
+    alt="Docker"
+    width="30"
+    title="Docker"
+  />&nbsp;&nbsp;
   <img
     src="./src/icons/frontend/axios.svg"
     alt="Axios"
