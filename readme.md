@@ -56,6 +56,12 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     title="Redux.js"
     width="30"
   />&nbsp;&nbsp;
+  <img
+    src="./src/icons/frontend/axios.svg"
+    alt="Axios.js"
+    title="Axios.js"
+    width="30"
+  />&nbsp;&nbsp;
   <img 
     src="./src/icons/frontend/nextJs.svg"
     alt="Next.js"
@@ -145,6 +151,12 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     width="30"
   />&nbsp;&nbsp;
   <img 
+    src="./src/icons/tools/postman.svg"
+    alt="Postman"
+    title="Postman"
+    width="30"
+  />&nbsp;&nbsp;
+  <img 
     src="./src/icons/tools/git.svg"
     alt="Git"
     title="Git"
@@ -154,12 +166,6 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     src="./src/icons/tools/github.svg"
     alt="GitHub"
     title="GitHub"
-    width="30"
-  />&nbsp;&nbsp;
-  <img 
-    src="./src/icons/tools/postman.svg"
-    alt="Postman"
-    title="Postman"
     width="30"
   />&nbsp;&nbsp;
   <img 
