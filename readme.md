@@ -1,8 +1,24 @@
-<h1 align="center">🚵‍♂️ Welcome to my GitHub Page 🚵‍♂️</h1>
+<h1 align="center">Welcome to my GitHub Page👋</h1>
+
+<p align="center">
+Glad you're here! Take your time exploring - here's a virtual espresso and a donut to keep you company.<br />
+  <img 
+    src="./src/icons/utils/espresso.png"
+    alt="Espresso"
+    width="30"
+    align="center"
+  />
+  <img 
+    src="./src/icons/utils/donut.png"
+    alt="Donut"
+    width="40"
+    align="center"
+  />
+</p>
 
 <h3>🪶About me:</h3>
 <p>
-I'm a <b>full-stack developer with 4 years of professional experience</b>, primarily focused on <b>frontend development with React & Next.js</b>.  
+I'm a <b>full-stack developer since 2020</b>, primarily focused on <b>frontend development with React & Next.js</b>.  
 I also have solid experience with <b>NestJS, PostgreSQL, and Docker.</b>  
 
 I enjoy building <b>clean, functional, and user-friendly web apps</b> that people actually enjoy using.  
@@ -74,8 +90,6 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     title="Shadcn/ui"
     width="30"
   />&nbsp;&nbsp;
-</p>
-<p align="center">
   <img 
     src="./src/icons/frontend/i18next.svg"
     alt="I18next"
@@ -92,6 +106,12 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     src="./src/icons/frontend/react-hook-form.svg"
     alt="React-Hook-Form"
     title="React-Hook-Form"
+    width="30"
+  />&nbsp;&nbsp;
+  <img 
+    src="./src/icons/frontend/zod.svg"
+    alt="Zod"
+    title="Zod"
     width="30"
   />&nbsp;&nbsp;
 </p>
@@ -140,7 +160,7 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     title="EJS"
     width="30"
   />&nbsp;&nbsp;
-</>
+</p>
 
 <h4 align="center">Tools</h4>
 <p align="center">
@@ -214,11 +234,11 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
 
 <p>
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=AlirezaaMoradi&show_icons=true&theme=codeSTACKr&bg_color=000&border_color=FFF"
+    src="https://github-readme-stats.vercel.app/api?username=AlirezaaMoradi&show_icons=true&theme=codeSTACKr&bg_color=000"
     alt="My GitHub stats"
   />&nbsp;&nbsp;
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaaMoradi&layout=compact&langs_count=8&bg_color=000&text_color=FFF&title_color=FFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaaMoradi&layout=compact&langs_count=8&bg_color=000&text_color=FFF&title_color=FFF&border_color=000"
     alt="Top Langs"
   />
 </p>
