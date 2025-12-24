@@ -232,7 +232,7 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
 
 <br/>
 
-<p>
+<!-- <p>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=AlirezaaMoradi&show_icons=true&theme=codeSTACKr&bg_color=000"
     alt="My GitHub stats"
@@ -241,4 +241,4 @@ If you're into web dev too, feel free to connect — I love exchanging ideas and
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlirezaaMoradi&layout=compact&langs_count=8&bg_color=000&text_color=FFF&title_color=FFF&border_color=000"
     alt="Top Langs"
   />
-</p>
+</p> -->
